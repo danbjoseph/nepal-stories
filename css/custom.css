@@ -41,7 +41,7 @@ html, body {
 	max-height: 368px;
 	overflow: auto;
 	overflow-y: auto;
-	padding: 20px 7px;
+	padding: 20px 9px;
 	background-color: #f8f8f8;
 }
 ::-webkit-scrollbar {
@@ -90,6 +90,7 @@ html, body {
 	font-size: 26px;
 	font-weight: 500;
 	letter-spacing: 1px;
+	text-align: right;
 }
 #nrcs-logo{
 	position: absolute;
