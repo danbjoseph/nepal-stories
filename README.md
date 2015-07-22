@@ -1,11 +1,13 @@
 Nepal Stories
 =============
 
-preview here: http://americanredcross.github.io/nepal-stories/index_iframe.html
+this is a 763x429 version of the original project
+
+preview here: http://danbjoseph.github.io/nepal-stories/index_iframe.html
 
 embed with the following code:
 ```
-<iframe src="http://americanredcross.github.io/nepal-stories/" height="429" width="763" border="0"></iframe>
+<iframe src="http://danbjoseph.github.io/nepal-stories/" height="429" width="763" style="border:1px solid #d7d7d8;"></iframe>
 ```
 
 **Technology Used:**
